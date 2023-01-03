@@ -1,13 +1,13 @@
 ## Lilishop B2B2C商城系统
 
 ##### 官方公众号 & 开源不易，如有帮助请点Star
-![image-20210511171611793](https://pickmall.cn/assets/imgs/h5-qrcode.png)
+![image-20210511171611793](https://7otech.com/assets/imgs/h5-qrcode.png)
 
 [![star](https://gitee.com/beijing_hongye_huicheng/lilishop/badge/star.svg?theme=dark)](https://gitee.com/beijing_hongye_huicheng/lilishop/stargazers)
 
 
 ### 介绍
-**官网**：https://pickmall.cn
+**官网**：https://7otech.com
 
 Lilishop 是一款Java开发，基于SpringBoot研发的B2B2C多用户商城，前端使用 Vue、uniapp开发 **系统全端全部代码开源**
 
@@ -23,7 +23,7 @@ Lilishop 是一款Java开发，基于SpringBoot研发的B2B2C多用户商城，�
 
 ### 文档
 
-**产品文档**（需求、架构、使用、部署、开发）：https://docs.pickmall.cn
+**产品文档**（需求、架构、使用、部署、开发）：https://docs.7otech.com
 
 
 ### 项目链接(gitee)
@@ -48,15 +48,15 @@ Lilishop 是一款Java开发，基于SpringBoot研发的B2B2C多用户商城，�
 
 ### 演示地址
 
-**运营后台**：https://admin-b2b2c.pickmall.cn 账号：admin/123456
+**运营后台**：https://admin-7otech.com 账号：admin/123456
 
-**店铺后台**：https://store-b2b2c.pickmall.cn 账号：13011111111/111111
+**店铺后台**：https://store-7otech.com 账号：13011111111/111111
 
-**用户前台**：https://pc-b2b2c.pickmall.cn
+**用户前台**：https://pc-7otech.com
 
-**移动端**：https://m-b2b2c.pickmall.cn
+**移动端**：https://m-7otech.com
 
-![image-20210511171611793](https://pickmall.cn/assets/imgs/h5-qrcode.png)
+![image-20210511171611793](https://7otech.com/assets/imgs/h5-qrcode.png)
 
 ### 3行命令搭建本地环境
 
@@ -100,13 +100,13 @@ PS:单独部署的话，数据库文件访问这里：https://gitee.com/beijing_
 
 #### 平台功能
 
-![平台功能](https://pickmall.cn/assets/imgs/other/managerList.jpg)
+![平台功能](https://7otech.com/assets/imgs/other/managerList.jpg)
 
 
 
 #### 商家端功能
 
-![商家端功能](https://pickmall.cn/assets/imgs/other/storeList.jpg)
+![商家端功能](https://7otech.com/assets/imgs/other/storeList.jpg)
 
 
 
@@ -118,15 +118,15 @@ PS:单独部署的话，数据库文件访问这里：https://gitee.com/beijing_
 
 #### 移动端
 
-<img src="https://pickmall.cn/assets/imgs/other/app.gif" alt="管理端功能展示" style="zoom:50%;" />
+<img src="https://7otech.com/assets/imgs/other/app.gif" alt="管理端功能展示" style="zoom:50%;" />
 
-<img src="https://pickmall.cn/assets/imgs/other/app.gif" alt="移动端功能展示" style="zoom:50%;" />
+<img src="https://7otech.com/assets/imgs/other/app.gif" alt="移动端功能展示" style="zoom:50%;" />
 
 
 
 #### 管理端
 
-![管理端功能展示](https://pickmall.cn/assets/imgs/other/manager.gif)
+![管理端功能展示](https://7otech.com/assets/imgs/other/manager.gif)
 
 
 ### 技术选型
